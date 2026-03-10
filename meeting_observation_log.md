@@ -62,7 +62,7 @@ Copy this for each meeting attended:
 - **Attendees (approx):** 2
 - **Duration:** ~11 minutes
 - **Meeting Structure:** No agenda, no slides, no structured flow
-- **Discussion Quality (1-5):** 1
+- **Discussion Quality (1-5):** 2
 - **Cross-Project Discussion:** No — too few attendees for any cross-project exchange
 - **Researcher Contributions:** None
 - **Advisor/Faculty Role:** Not present
