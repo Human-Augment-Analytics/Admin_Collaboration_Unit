@@ -297,4 +297,4 @@ Channel did not exist until Aug 25, 2025.
 - "Active members" are defined as users who posted more than 1 non-join/leave message in the main channel AND have not left the channel AND are not in the admin exclusion list.
 - Admin exclusion list: Charles R Clark, John Hagood, Bree Shi, Ali Sean Khan, Cody Henderson, Michael Bock, Anisha Rai, Ichha Manandhar. These users appear across multiple unit channels in organizational/administrative roles rather than as unit researchers.
 - Thread-only replies are not counted in main channel post totals, so users who only replied in threads may be undercounted.
-- Raw data for all 458 logged events is available in the companion file: `channel_activity_raw.csv`
+- Raw data for all 458 logged events is available in the companion file: `channel_activity.csv`
