@@ -1,0 +1,459 @@
+date,time,semester,unit_channel,user_name,user_id,role,event_type,has_attachment,reaction_count,thread_reply_count,message_summary
+2025-05-07,18:48:34,Summer 2025,3d-vision-unit,Bree Shi,U071S6NJRSS,admin,join,FALSE,0,0,has joined the channel
+2025-05-07,18:48:42,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,join,FALSE,0,0,has joined the channel
+2025-05-07,18:48:43,Summer 2025,3d-vision-unit,Anisha Rai,U08MUF67FHR,admin,join,FALSE,0,0,has joined the channel
+2025-05-07,18:49:54,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,join,FALSE,0,0,has joined the channel
+2025-05-07,18:50:09,Summer 2025,image-processing-unit,Anisha Rai,U08MUF67FHR,admin,join,FALSE,0,0,has joined the channel
+2025-05-07,18:50:09,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,join,FALSE,0,0,has joined the channel
+2025-05-12,14:26:50,Summer 2025,3d-vision-unit,Michael Bock,U07H5ETNN94,admin,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Caleb Wheeler,U08R4UUTZJT,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Eric Iamarino,U087R011ETE,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Yu-Wei (Rachel) Lai,U08RR70E733,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Ravi Dharmalingam,U08S1MEJFPS,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Omar Moursy,U087831CTMM,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Steve Foryoung,U087NJM8L9Y,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Nikita Angarski,U087831F0BZ,unit_manager,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Ilia Jahanshahi,U089CP03AH3,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Andrew Wilder,U08RGM0KWFN,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Alex Hinds,U08S1D6L68Y,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Ali Sean Khan,U07819MK0U9,admin,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Luis Rodriguez,U08P0R6EGPK,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Avish Parmar,U08RV5237LH,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Fan Yang,U087KPGAVD3,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,join,FALSE,0,0,has joined the channel
+2025-05-12,14:33:37,Summer 2025,3d-vision-unit,Yasha Iravantchi,U08PU527CQY,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:35:24,Summer 2025,3d-vision-unit,Michael Bock,U07H5ETNN94,admin,message,FALSE,5,0,Set up channel for 3D Vision Projects; posted When2Meet
+2025-05-12,14:35:32,Summer 2025,3d-vision-unit,Michael Bock,U07H5ETNN94,admin,message,FALSE,0,0,Channel tag
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Steven Nicolas Jury,U08RTHNNGGZ,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Yehoshua (Josh) Dalin,U08N3KVAZ8S,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Shanmugavel Chandrakasu,U08RGUAQNNP,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Heba Elwazzan,U078YDG1H51,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Kaushika Mohan,U088BPDDYN4,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Scott Walters,U088B64AEF2,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Hoan Tran,U08NMAF85D5,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Kefei Yan,U08RN5RACA0,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Luis Alberto Icaza,U08RMMK5V8T,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Tosh Wilcox,U08RKN25XQT,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Chenwei Xu,U08QNJY7YG3,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Juliano Wahab,U08R836KCAV,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Parth J Patel,U08RFJ27WD9,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Jacquie Carroll,U08PXLTS821,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:46:38,Summer 2025,image-processing-unit,Iyanu Oduwole,U08Q6PB58KY,researcher,join,FALSE,0,0,has joined the channel
+2025-05-12,14:51:28,Summer 2025,image-processing-unit,Michael Bock,U07H5ETNN94,admin,message,FALSE,0,12,Set up channel for Video Detection Projects; posted When2Meet
+2025-05-12,14:51:32,Summer 2025,image-processing-unit,Michael Bock,U07H5ETNN94,admin,message,FALSE,0,0,Channel announcement tag
+2025-05-12,14:58:00,Summer 2025,3d-vision-unit,Michael Bock,U07H5ETNN94,admin,message,FALSE,7,0,Added LiDAR team
+2025-05-13,16:14:15,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,Clarified: biweekly
+2025-05-13,17:11:44,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,10,Asked when meeting recording available
+2025-05-13,18:05:55,Summer 2025,3d-vision-unit,Xin Lin,U087GE47Q5C,researcher,join,FALSE,0,0,has joined the channel
+2025-05-13,18:06:06,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,2,0,New member for Photogrammetry
+2025-05-13,18:26:39,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Asked about discord
+2025-05-13,21:21:27,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked everyone to complete When2Meet
+2025-05-13,22:13:44,Summer 2025,3d-vision-unit,Andrew Wilder,U08RGM0KWFN,researcher,message,FALSE,1,0,Got projects mixed up
+2025-05-13,22:14:17,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,No worries
+2025-05-15,14:37:55,Summer 2025,image-processing-unit,Shanmugavel Chandrakasu,U08RGUAQNNP,researcher,message,FALSE,0,0,Asked if meeting today
+2025-05-15,21:56:04,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,4,Posted When2Meet for weekly meetings
+2025-05-16,11:00:29,Summer 2025,image-processing-unit,Luis Alberto Icaza,U08RMMK5V8T,researcher,message,FALSE,0,0,Only meeting coming up is general tonight at 6pm EST
+2025-05-16,14:14:14,Summer 2025,image-processing-unit,Steven Nicolas Jury,U08RTHNNGGZ,researcher,message,FALSE,0,0,Unable to attend general meeting
+2025-05-16,17:42:07,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Kickoff meeting will be recorded
+2025-05-16,19:29:30,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,4,0,"Introduced himself: SF, Meta ML engineer, endoscopic 3D vision"
+2025-05-17,16:44:55,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,1,0,Introduced himself; excited for project
+2025-05-17,18:54:23,Summer 2025,image-processing-unit,Yehoshua (Josh) Dalin,U08N3KVAZ8S,researcher,message,FALSE,0,0,Asked if there was a meeting
+2025-05-17,20:05:02,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Confirmed kickoff was last night
+2025-05-17,20:05:08,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Recording in omscs-course channel
+2025-05-18,18:09:47,Summer 2025,image-processing-unit,Yehoshua (Josh) Dalin,U08N3KVAZ8S,researcher,message,FALSE,0,0,Asked when first video detection group meeting is
+2025-05-18,18:18:46,Summer 2025,image-processing-unit,Michael Bock,U07H5ETNN94,admin,message,FALSE,0,0,Meeting manager should set time based on When2Meet
+2025-05-18,20:30:39,Summer 2025,image-processing-unit,Kaushika Mohan,U088BPDDYN4,researcher,message,FALSE,1,0,Mon 4:30pm selected as meeting time based on LettuceMeet
+2025-05-18,20:48:34,Summer 2025,image-processing-unit,Kaushika Mohan,U088BPDDYN4,researcher,message,FALSE,1,1,Sent meeting invites
+2025-05-18,23:58:49,Summer 2025,image-processing-unit,Yehoshua (Josh) Dalin,U08N3KVAZ8S,researcher,message,FALSE,0,0,Pointed out Wed has fewer conflicts than Mon
+2025-05-19,00:11:32,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,0,0,Cannot make Monday meeting
+2025-05-19,07:42:13,Summer 2025,image-processing-unit,Kaushika Mohan,U088BPDDYN4,researcher,message,FALSE,0,0,Cannot make Wed early; offered meeting manager handoff
+2025-05-19,17:06:08,Summer 2025,image-processing-unit,Kaushika Mohan,U088BPDDYN4,researcher,message,FALSE,0,0,Clarified meeting scope: unit-level vs project-level
+2025-05-19,18:56:07,Summer 2025,image-processing-unit,Kefei Yan,U08RN5RACA0,researcher,message,FALSE,1,0,Thanked Kaushika for hosting meeting
+2025-05-19,19:53:51,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,3,0,Listed interesting papers on basecamp
+2025-05-19,21:58:34,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Asked for morphology3D paper ideas
+2025-05-19,22:54:42,Summer 2025,3d-vision-unit,Caleb Wheeler,U08R4UUTZJT,researcher,message,FALSE,1,0,Shared Matrix3D paper (Apple)
+2025-05-19,23:35:19,Summer 2025,3d-vision-unit,Caleb Wheeler,U08R4UUTZJT,researcher,message,FALSE,0,0,Shared Nerfies paper link
+2025-05-19,23:49:03,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,1,0,Shared NeuS paper; discussed SDF vs density functions
+2025-05-19,23:55:52,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,0,0,Shared VolSDF paper link
+2025-05-19,23:57:13,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,TRUE,0,0,Shared VolSDF video demo
+2025-05-20,10:16:19,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Asked Steve/Alan to pick roles and set up kickoff
+2025-05-20,11:39:09,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,0,0,Offered to be Meeting Manager if needed
+2025-05-20,11:43:03,Summer 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,message,FALSE,2,0,Took meeting manager role; updated spreadsheet
+2025-05-20,11:46:43,Summer 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,message,FALSE,0,0,Asked about scheduling based on When2Meet vs waiting for kickoff
+2025-05-20,12:06:01,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked about When2Meet format
+2025-05-20,12:17:13,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Advised on day-of-week vs specific date When2Meet
+2025-05-20,12:58:03,Summer 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,message,FALSE,0,0,Clarified: When2Meet was for kickoff meeting only
+2025-05-20,13:00:00,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Use last When2Meet for kickoff; new one for regular meetings
+2025-05-20,15:33:48,Summer 2025,3d-vision-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,4,0,Proposed Friday 2-3pm meeting starting next week
+2025-05-20,16:46:00,Summer 2025,image-processing-unit,Sagnik Sinha,U08PJJPAVTK,researcher,join,FALSE,0,0,has joined the channel
+2025-05-20,16:46:00,Summer 2025,image-processing-unit,Fernando Bedoya,U08S60QKTM0,researcher,join,FALSE,0,0,has joined the channel
+2025-05-20,16:46:00,Summer 2025,image-processing-unit,Shuyu Tian,U08819MGUG1,researcher,join,FALSE,0,0,has joined the channel
+2025-05-20,16:46:00,Summer 2025,image-processing-unit,Yiyan Zhang,U08RF76FHPU,researcher,join,FALSE,0,0,has joined the channel
+2025-05-20,16:46:00,Summer 2025,image-processing-unit,Bhavana,U08SC9966UQ,researcher,join,FALSE,0,0,has joined the channel
+2025-05-20,16:46:00,Summer 2025,image-processing-unit,Neelima Pandey,U08RXF8V03X,unit_manager,join,FALSE,0,0,has joined the channel
+2025-05-20,18:59:00,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Created new bi-weekly When2Meet for photogrammetry group
+2025-05-20,20:19:44,Summer 2025,3d-vision-unit,Caleb Wheeler,U08R4UUTZJT,researcher,message,FALSE,0,0,Asked about HAAG GitHub project link
+2025-05-20,20:22:58,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Confirmed HAAG GitHub project
+2025-05-21,18:23:45,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,0,0,Cannot attend first meeting May 26
+2025-05-21,19:34:03,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,join,FALSE,0,0,has joined the channel
+2025-05-22,10:20:45,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,message,FALSE,0,1,Asked for basecamp account
+2025-05-22,10:24:20,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,message,FALSE,0,2,Asked group to get familiar with Gaussian Splatting repo
+2025-05-22,10:36:20,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,message,FALSE,0,2,Cannot see docs on basecamp; asked for access to James papers
+2025-05-22,10:43:17,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,message,FALSE,0,0,Suggested bringing docs to 3D vision group channel
+2025-05-22,10:44:11,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Can post files in channel
+2025-05-22,10:44:52,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,message,FALSE,0,0,Thanks to Charles
+2025-05-22,10:50:00,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Shared 9 arxiv/resource links
+2025-05-22,11:57:36,Summer 2025,3d-vision-unit,Supratik Mukhopadhyay,U08QS294TMG,faculty_advisor,message,FALSE,0,3,Posted papers on basecamp
+2025-05-25,15:51:55,Summer 2025,image-processing-unit,Neelima Pandey,U08RXF8V03X,unit_manager,message,FALSE,0,0,Cannot attend first meeting due to timezone
+2025-05-25,16:05:30,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,TRUE,1,0,Shared AI/LLM tool-building workflow for labeling
+2025-05-26,16:05:04,Summer 2025,image-processing-unit,Parth J Patel,U08RFJ27WD9,researcher,message,FALSE,0,2,Asked if meeting today
+2025-05-30,13:23:59,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Requested extension on weekly report
+2025-05-30,13:49:03,Summer 2025,3d-vision-unit,Steve Foryoung,U087NJM8L9Y,researcher,message,FALSE,0,0,Away on work trip; may not attend meeting
+2025-05-30,14:40:09,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,3,2,Created Zotero group and invited everyone
+2025-05-30,18:39:25,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,1,0,Shared reading synthesis on basecamp
+2025-05-31,10:11:29,Summer 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,0,Cannot download recordings; shared access link; new invite coming
+2025-06-02,12:46:55,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,McGuire team not on calendar
+2025-06-03,16:30:09,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,2,0,Encouraged checking out Zotero space
+2025-06-03,16:36:22,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,2,1,Zotero moderation policy: faculty/advisor approval needed
+2025-06-04,10:27:02,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,2,Asked for demo volunteers for next unit meeting
+2025-06-05,21:34:16,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,2,Asked Steve about agenda items for Monday meeting
+2025-06-05,21:34:23,Summer 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,join,FALSE,0,0,has joined the channel
+2025-06-05,21:35:06,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,1,0,Added Steve Mussmann to unit channel
+2025-06-09,16:04:12,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Unit meeting happening now reminder
+2025-06-10,21:59:26,Summer 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,5,0,Shared meeting notes document and survey
+2025-06-12,22:59:14,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,Attendance and participation tracking notice
+2025-06-12,23:00:32,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,5,0,Like messages to indicate engagement
+2025-06-13,01:24:58,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,7,Asked about scheduling Shanmugavel project presentation
+2025-06-13,13:59:29,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Confirmed new meeting
+2025-06-13,14:18:46,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,TRUE,1,0,Shared benchmark testing results with image
+2025-06-13,14:34:07,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,feature map?
+2025-06-13,16:55:32,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,"Need to combo frameworks: VGGT, Matrix3D, Sugar, Neus2, OpenMVS"
+2025-06-14,14:14:55,Summer 2025,3d-vision-unit,Caleb Wheeler,U08R4UUTZJT,researcher,message,FALSE,0,0,Volunteered for Matrix3D and OpenMVS
+2025-06-14,15:00:34,Summer 2025,3d-vision-unit,Xin Lin,U087GE47Q5C,researcher,message,FALSE,0,4,Volunteered for VGGT Matrix3D
+2025-06-14,19:15:16,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,1,0,Proposed finding one object for all pipeline testing
+2025-06-16,00:39:34,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,1,0,Shared buddha dataset for testing; discussed VolSDF
+2025-06-16,08:36:31,Summer 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,0,Asked where to share meeting recording
+2025-06-16,09:44:21,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked John to share recording in-channel
+2025-06-16,10:35:40,Summer 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,message,TRUE,3,0,Shared meeting recording MP4
+2025-06-17,12:56:12,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,2,0,Shared arxiv 3D reconstruction paper
+2025-06-18,16:37:44,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,1,0,Asked for access to old project websites for wiki migration
+2025-06-18,17:08:51,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,1,0,Announced Zotero invites going out
+2025-06-18,18:54:01,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,1,0,Proposed adding DeepLabCut paper to Zotero
+2025-06-20,18:28:36,Summer 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,0,Next meeting: PACE/slurm presentation + Shanmugavel project update
+2025-06-21,00:59:30,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,0,0,Zotero invite notification
+2025-06-21,01:16:38,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,0,0,Requested project image for wiki
+2025-06-21,09:43:34,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,5,Requested website volunteers from 6 researchers
+2025-06-23,16:03:36,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Unit meeting reminder
+2025-06-23,17:06:19,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Reminder to propose Zotero article additions
+2025-06-23,17:12:54,Summer 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,TRUE,4,0,Shared PACE presentation slides + demo files
+2025-06-23,17:36:30,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Shared meeting recording link
+2025-06-23,17:39:35,Summer 2025,image-processing-unit,Heba Elwazzan,U078YDG1H51,researcher,message,TRUE,4,0,Shared VSCode/PACE/Slurm tutorial PDF
+2025-06-25,00:59:55,Summer 2025,image-processing-unit,Shanmugavel Chandrakasu,U08RGUAQNNP,researcher,message,TRUE,0,0,Shared annotation/classification presentation
+2025-06-27,11:06:01,Summer 2025,3d-vision-unit,Nikita Angarski,U087831F0BZ,unit_manager,message,FALSE,2,0,Cannot attend due to work; will update unit site
+2025-07-04,14:10:13,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,2,1,Shared SyDog-Video paper with discussion of AI-generated training data
+2025-07-07,16:01:56,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Unit meeting
+2025-07-07,16:02:09,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Unit meeting reminder
+2025-07-07,17:06:22,Summer 2025,image-processing-unit,Heba Elwazzan,U078YDG1H51,researcher,message,TRUE,4,1,Shared CV Presentation after presenting
+2025-07-09,19:28:13,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,1,Survey: what ML models/frameworks on PACE compute
+2025-07-09,19:28:26,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,2,Survey: ML models/frameworks on PACE
+2025-07-11,13:48:49,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,2,3,0.5% extra credit for survey response
+2025-07-11,13:49:11,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,0.5% extra credit for survey response by Monday
+2025-07-11,13:55:13,Summer 2025,3d-vision-unit,Steve Foryoung,U087NJM8L9Y,researcher,message,FALSE,0,0,"In work meeting next 30 min, may be late"
+2025-07-11,14:00:34,Summer 2025,3d-vision-unit,Nikita Angarski,U087831F0BZ,unit_manager,message,FALSE,0,0,"Stuck in work meeting, joining soon"
+2025-07-11,14:10:25,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Shared arxiv paper link
+2025-07-11,14:41:01,Summer 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Asked Supratik to join new 3D vision meeting
+2025-07-11,14:45:47,Summer 2025,3d-vision-unit,Clinton Kunhardt,U08RV277DQU,researcher,message,FALSE,1,0,In transit from work conference; report by end of day
+2025-07-11,18:30:22,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Clarified how to get extra credit from survey
+2025-07-15,11:55:09,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Fill out form to stay on as HAAG researcher
+2025-07-15,11:56:19,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Form to stay on as HAAG researcher
+2025-07-15,12:18:36,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,Told Clark researchers should fill out form
+2025-07-15,12:19:04,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,Asked about empty video detection website
+2025-07-15,12:19:16,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,Shared HAAG video detection unit page link
+2025-07-15,12:21:39,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,0,0,Shared video detection unit website link
+2025-07-15,12:22:16,Summer 2025,image-processing-unit,Kailey Cozart Quesada,U07367P0KSQ,researcher,message,FALSE,0,0,Identified Kaushika created non-HAAG separate website
+2025-07-15,12:25:49,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,1,0,Asked Kaushika to fix unit website connection
+2025-07-15,12:26:00,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,Shared HAAG biotech page link
+2025-07-15,12:51:30,Summer 2025,image-processing-unit,Heba Elwazzan,U078YDG1H51,researcher,message,FALSE,0,0,Question about retiring website and moving to wiki
+2025-07-15,12:51:42,Summer 2025,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,0,0,No (re: website retirement question)
+2025-07-15,12:53:50,Summer 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Website issue: Kaushika created separate site instead of adding to existing page
+2025-07-21,16:02:14,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Unit meeting reminder
+2025-07-21,17:08:24,Summer 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,TRUE,0,0,Shared lizard movement unit intro slides
+2025-07-21,19:36:03,Summer 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,TRUE,0,0,Shared meeting slides
+2025-07-23,02:20:07,Summer 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,1,1,No meeting Aug 4; last summer meeting done
+2025-07-25,13:45:49,Summer 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,message,FALSE,1,0,Cannot attend due to work
+2025-07-25,13:55:23,Summer 2025,3d-vision-unit,Steve Foryoung,U087NJM8L9Y,researcher,message,FALSE,0,0,"In work meeting, may join late if done early"
+2025-07-25,14:09:54,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked Nikita if coming to meeting
+2025-07-25,14:10:30,Summer 2025,3d-vision-unit,Nikita Angarski,U087831F0BZ,unit_manager,message,FALSE,1,0,"Held up on work call, joining soon"
+2025-07-25,14:10:47,Summer 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,No worries see you in a bit
+2025-08-18,14:37:47,Fall 2025,image-processing-unit,Neelima Pandey,U08RXF8V03X,unit_manager,message,FALSE,0,0,Asked about scheduled video detection unit meeting
+2025-08-18,14:39:00,Fall 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,2,0,Suggested When2Meet needed
+2025-08-25,11:11:59,Fall 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,1,0,"Meeting supposed to be this week, unsure who schedules"
+2025-08-25,11:15:30,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,2,0,Video detection rebranded to Image Processing
+2025-08-25,13:22:49,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Emily Weigel,U099VJ3CG48,faculty_advisor,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Tim Donley,U099P93EMMJ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Vanessa Zhou,U099UPQTFHS,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Tadeas Lobreis,U09A31DMGNM,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Leonardo Savasta,U099MKYKXT4,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Tara Washington,U09AJJM87S4,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Salma Emad Abdelhalim,U08RF7PL1MY,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Quinn Mattison,U0876QVTE7R,unit_manager,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Ryan Barley,U08R70J44K0,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,John Hagood,U087R4HGU20,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Nikita Angarski,U087831F0BZ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:24:56,Fall 2025,r-scripting-unit,Bree Shi,U071S6NJRSS,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:27:04,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Announced R scripting unit; Emily Weigel as faculty advisor; Monday availability check
+2025-08-25,13:34:16,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Asked Quinn Mattison to be unit manager
+2025-08-25,13:36:37,Fall 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Renamed channel from 3d-vision to 3d-vision-unit
+2025-08-25,13:39:18,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Renamed channel from video-detection to image-processing-unit
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Janice Jeon,U099GNK03K7,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Yutao Xu,U099DTYGAB1,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Tom Fox,U08QZ8VTU95,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Erik Dreyer,U08RCAT8Q8N,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Vanessa Prema,U087KFZB1D3,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Andrei Hushcha,U087KFJN51B,unit_manager,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Aparna Suresh,U09ABPGCPEU,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Andrew Nguyen,U0991USFHGB,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,John Hiedo,U0991LVV9E2,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Nicholas Oo,U099X4VJ6LE,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Frank Hoffman,U099CUHEW2G,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Louis DiMuro,U099688PEP8,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Nabil Abdullah,U09AHQBBA6L,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Niral Verma,U08RJFPP4DS,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,Anqi Zheng,U08QZNNHCGJ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:00,Fall 2025,image-processing-unit,WenHan Chia,U08819M10CR,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:40:02,Fall 2025,r-scripting-unit,Tadeas Lobreis,U09A31DMGNM,researcher,message,FALSE,0,0,Asked for specific timeframe for Monday afternoons
+2025-08-25,13:43:29,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,"Announced channel as image processing unit, Steve Mussmann as advisor"
+2025-08-25,13:44:28,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,2,Asked Neelima Pandey to be unit manager
+2025-08-25,13:44:37,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Working on sending meeting time
+2025-08-25,13:44:57,Fall 2025,image-processing-unit,Nikita Angarski,U087831F0BZ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:45:02,Fall 2025,image-processing-unit,John Hagood,U087R4HGU20,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:49:18,Fall 2025,methods-unit,Charles R Clark,U073KDQ0D6V,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Evelyn Shi,U08SAEADEBU,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Evelyn Shi2,U08RB3643L5,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Pengyuan Li,U099Q11P2N8,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Jan Ramos,U099PV53MM4,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Alex Pramov,U099MPMQ37B,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Lenix Carter,U099UJT87A6,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,John Portin,U099BK9GE20,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Krishna Shankar,U099D42E5AB,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Nabrissa Khan,U09A2QBEEDR,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,David Levy,U099MH01P6Y,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Sichao Yang,U099W8KRTPS,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Gurjot Singh,U0994DG54R1,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Xu,U09BPLUAPFS,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Omkar V,U09AH32C2QZ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Aniketh Swain,U099GBWGGF4,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Isaac Felix,U099AND556W,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Laura Tomokiyo,U09A4BC0LLB,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Prateek Awate,U09942YC81H,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Bina Patel,U07HP4JJA3T,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Astika Nehra,U09A2BA7RJN,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Archita Jain,U099BDJEGMS,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Ishaan Datta,U0993T1KSCV,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Seyoung Song,U099JLTAG93,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Sagnik Sinha,U08PJJPAVTK,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,David Solooki,U099PV92J8Z,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Guanxi Shen,U099XCYBATA,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,James Jaehun Yoon,U0997EZ9XJN,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Nikita Angarski,U087831F0BZ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,John Hagood,U087R4HGU20,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:52:47,Fall 2025,methods-unit,Bree Shi,U071S6NJRSS,admin,join,FALSE,0,0,has joined the channel
+2025-08-25,13:53:15,Fall 2025,methods-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Announced methods unit; Steve Mussmann as faculty advisor
+2025-08-25,13:53:52,Fall 2025,methods-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked Brennen to be unit manager
+2025-08-25,14:21:45,Fall 2025,methods-unit,David Levy,U099MH01P6Y,researcher,message,FALSE,0,1,Asked about recurring meeting time
+2025-08-25,15:06:33,Fall 2025,r-scripting-unit,Emily Weigel,U099VJ3CG48,faculty_advisor,message,FALSE,1,0,Hard stop 5pm; available from 12pm
+2025-08-25,15:29:00,Fall 2025,3d-vision-unit,Wenying Wu,U0991SPNS7M,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,15:29:00,Fall 2025,3d-vision-unit,Janie Huang,U09AHLQ1N56,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,15:29:00,Fall 2025,3d-vision-unit,Joohyun Lee,U0995CJ5QVB,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,15:29:00,Fall 2025,3d-vision-unit,Benjamin Ostrower,U079S0JUUHX,researcher,join,FALSE,0,0,has joined the channel
+2025-08-25,15:30:40,Fall 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Announced 3D vision unit; Supratik Mukhopadhyay as faculty advisor
+2025-08-25,15:30:59,Fall 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked Nikita to be unit manager
+2025-08-25,15:32:13,Fall 2025,3d-vision-unit,Nikita Angarski,U087831F0BZ,unit_manager,message,FALSE,0,0,Nominated Oliver Dobon; has work/admin conflicts
+2025-08-25,15:32:47,Fall 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Oliver already manages another unit
+2025-08-25,15:33:00,Fall 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Will pick someone else for manager
+2025-08-25,15:33:06,Fall 2025,3d-vision-unit,Nikita Angarski,U087831F0BZ,unit_manager,message,FALSE,0,0,Nominated Alan Nadelsticher for unit manager
+2025-08-25,15:33:18,Fall 2025,3d-vision-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked Alan to be unit manager
+2025-08-25,16:02:29,Fall 2025,r-scripting-unit,Leonardo Savasta,U099MKYKXT4,researcher,message,FALSE,0,0,Standing Mon 1:45-2:45 conflict; 12pm best
+2025-08-25,16:08:23,Fall 2025,r-scripting-unit,Tadeas Lobreis,U09A31DMGNM,researcher,message,FALSE,3,3,Works 9-5; lunch 12-1 available for meetings
+2025-08-25,17:04:56,Fall 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,message,FALSE,0,0,Agreed to unit manager role
+2025-08-25,18:47:38,Fall 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Nice
+2025-08-26,10:47:25,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,10,Meeting set every other Tuesday 12-1pm ET
+2025-08-26,10:55:11,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,3,0,Posted When2Meet for Mondays 12-5pm ET
+2025-08-26,12:08:39,Fall 2025,methods-unit,Alex Pramov,U099MPMQ37B,researcher,message,FALSE,0,0,Requested meeting recording
+2025-08-26,12:48:23,Fall 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,2,0,Volunteered to present pytorch backbone demo
+2025-08-26,13:09:58,Fall 2025,r-scripting-unit,Tara Washington,U09AJJM87S4,researcher,message,FALSE,0,6,Filled out availability; on PST but flexible
+2025-08-26,14:00:59,Fall 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,0,Admin meeting alternative option announcement
+2025-08-26,14:01:10,Fall 2025,image-processing-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,2,Admin meeting alternative option announcement
+2025-08-26,14:01:19,Fall 2025,methods-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,4,Admin meeting alternative option announcement
+2025-08-26,14:01:36,Fall 2025,r-scripting-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,0,Admin meeting alternative option announcement
+2025-08-26,17:53:04,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,1,1,Accepted unit manager role
+2025-08-26,17:56:37,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,0,0,Asked David/Charlie to upload transcripts to Meeting Transcripts folder
+2025-08-26,17:56:40,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,0,0,Thanks!
+2025-08-26,17:57:35,Fall 2025,methods-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Asked Brennen about transcript download
+2025-08-26,18:00:23,Fall 2025,methods-unit,Slackbot,USLACKBOT,researcher,message,FALSE,0,0,Brennen added Meeting Transcripts tab
+2025-08-26,18:01:54,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Best time: every other Monday 12pm ET starting Sep 8
+2025-08-26,18:07:09,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,TRUE,0,0,Shared image of transcripts tab setup
+2025-08-26,18:13:14,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,0,0,Transcript sufficient from Teams
+2025-08-26,18:13:42,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,0,2,Noted Otter issue; GT doesnt allow accounts
+2025-08-26,23:51:47,Fall 2025,methods-unit,David Levy,U099MH01P6Y,researcher,message,FALSE,0,0,Will disable Otter account for this meeting
+2025-08-27,01:41:56,Fall 2025,methods-unit,Alex Pramov,U099MPMQ37B,researcher,message,FALSE,2,0,Shared PyTorch tutorial YouTube link (4.5 hr DeepMind)
+2025-08-27,03:11:56,Fall 2025,3d-vision-unit,Wenying Wu,U0991SPNS7M,researcher,message,FALSE,2,1,Shared PACE Cluster Orientation link
+2025-08-27,07:31:21,Fall 2025,r-scripting-unit,Emily Weigel,U099VJ3CG48,faculty_advisor,message,FALSE,1,0,Threading a needle; thanks for flexibility
+2025-08-27,07:36:49,Fall 2025,r-scripting-unit,Emily Weigel,U099VJ3CG48,faculty_advisor,message,FALSE,0,0,"Disclosed specific date conflicts: Oct 6, Oct 20, Nov 3"
+2025-08-27,08:59:18,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,1,0,Will send invite; can adjust schedule later
+2025-08-27,11:32:55,Fall 2025,methods-unit,David Levy,U099MH01P6Y,researcher,message,FALSE,0,0,Thanks Alex
+2025-08-27,13:23:20,Fall 2025,methods-unit,Alex Pramov,U099MPMQ37B,researcher,message,FALSE,3,1,Shared FAISS seminal papers list from Facebook Research
+2025-08-27,23:12:15,Fall 2025,methods-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,3,Asked for VectorDB overview presenter
+2025-08-28,01:13:17,Fall 2025,methods-unit,Alex Pramov,U099MPMQ37B,researcher,message,FALSE,0,1,Suggested VectorDB-interested researcher for overview presentation
+2025-08-28,12:39:53,Fall 2025,methods-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,2,Asked for PyTorch tutorial/demo volunteer
+2025-08-28,18:54:24,Fall 2025,r-scripting-unit,Ali Sean Khan,U07819MK0U9,admin,join,FALSE,0,0,has joined the channel
+2025-08-28,20:36:43,Fall 2025,image-processing-unit,Alek Spiridonov,U08R6D26YA2,researcher,message,FALSE,0,0,Asked if anyone wants to see something specific in backbone demo
+2025-08-29,10:20:41,Fall 2025,image-processing-unit,Kartik Panchal,U0998STABCM,researcher,join,FALSE,0,0,has joined the channel
+2025-08-29,10:20:48,Fall 2025,image-processing-unit,Kimiyasu Morikawa,U0995R7QFC5,researcher,join,FALSE,0,0,has joined the channel
+2025-08-29,10:21:03,Fall 2025,image-processing-unit,Wai Lung Justin Yiu,U099H516EAJ,researcher,join,FALSE,0,0,has joined the channel
+2025-08-29,10:21:10,Fall 2025,image-processing-unit,Sai Suchir Tyada,U09BR06D74G,researcher,join,FALSE,0,0,has joined the channel
+2025-08-29,10:21:58,Fall 2025,image-processing-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,2,Corrected missed invites
+2025-08-31,10:24:50,Fall 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,message,FALSE,0,0,"Traveling, will join late; asked someone to start recording"
+2025-08-31,10:34:54,Fall 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Cannot make it due to Labor Day plans
+2025-09-01,11:18:57,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,3,0,Shared Weaviate blog article on 8-bit rotational quantization
+2025-09-01,22:09:14,Fall 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,2,0,Called for project update volunteers across 7 meeting dates
+2025-09-02,19:00:50,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,0,0,Hope everyone had a great Labor Day Weekend
+2025-09-02,19:00:57,Fall 2025,methods-unit,Brennen Songyong Yu,U0995TRUDHQ,unit_manager,message,FALSE,1,0,Shared sign-up sheet for Tutorial Presentations and Project Updates
+2025-09-04,14:22:49,Fall 2025,image-processing-unit,Andrei Hushcha,U087KFJN51B,unit_manager,message,FALSE,1,0,Asked about expected project update content
+2025-09-05,14:03:15,Fall 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,Asked if meeting today
+2025-09-05,14:05:31,Fall 2025,3d-vision-unit,Alan Nadelsticher,U08RK6T87L3,unit_manager,message,FALSE,0,0,Clarified: unit meetings every other Sunday 11am EST
+2025-09-05,14:06:46,Fall 2025,3d-vision-unit,James Hennessy,U08RBEQGXSB,researcher,message,FALSE,0,0,ok that makes more sense
+2025-09-09,11:27:33,Fall 2025,image-processing-unit,Neelima Pandey,U08RXF8V03X,unit_manager,message,FALSE,4,0,Meeting agenda: Alek PyTorch presentation + Andrei Bird Audio update
+2025-09-09,17:58:12,Fall 2025,methods-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,1,2,Shared Parallel Tempering method description
+2025-09-10,11:04:41,Fall 2025,image-processing-unit,Neelima Pandey,U08RXF8V03X,unit_manager,message,FALSE,1,2,Collecting future presentation topic ideas
+2025-09-10,13:04:24,Fall 2025,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,join,FALSE,0,0,has joined the channel
+2025-09-12,20:24:06,Fall 2025,methods-unit,Rohil Shah,U099ACB465B,researcher,join,FALSE,0,0,has joined the channel
+2025-09-12,20:43:57,Fall 2025,r-scripting-unit,Salma Emad Abdelhalim,U08RF7PL1MY,researcher,leave,FALSE,0,0,has left the channel
+2025-09-16,09:23:30,Fall 2025,r-scripting-unit,Tara Washington,U09AJJM87S4,researcher,leave,FALSE,0,0,has left the channel
+2025-09-16,09:23:30,Fall 2025,r-scripting-unit,Leonardo Savasta,U099MKYKXT4,researcher,leave,FALSE,0,0,has left the channel
+2025-09-16,09:23:30,Fall 2025,r-scripting-unit,Ryan Barley,U08R70J44K0,researcher,leave,FALSE,0,0,has left the channel
+2025-09-16,09:23:30,Fall 2025,r-scripting-unit,Quinn Mattison,U0876QVTE7R,unit_manager,leave,FALSE,0,0,has left the channel
+2025-09-16,09:24:50,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Need new unit manager; ecological modeling no longer participating
+2025-09-16,12:08:00,Fall 2025,r-scripting-unit,Aparna Suresh,U09ABPGCPEU,researcher,join,FALSE,0,0,has joined the channel
+2025-09-16,12:08:00,Fall 2025,r-scripting-unit,Andrew Nguyen,U0991USFHGB,researcher,join,FALSE,0,0,has joined the channel
+2025-09-16,12:08:00,Fall 2025,r-scripting-unit,John Hiedo,U0991LVV9E2,researcher,join,FALSE,0,0,has joined the channel
+2025-09-16,12:08:00,Fall 2025,r-scripting-unit,Kefei Yan,U08RN5RACA0,researcher,join,FALSE,0,0,has joined the channel
+2025-09-16,12:08:00,Fall 2025,r-scripting-unit,Neelima Pandey,U08RXF8V03X,researcher,join,FALSE,0,0,has joined the channel
+2025-09-16,12:08:40,Fall 2025,r-scripting-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,0,Adding spatial camera group to this unit
+2025-09-16,12:10:20,Fall 2025,r-scripting-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,0,Sent meeting time to new group members
+2025-09-16,12:19:45,Fall 2025,image-processing-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,3,Unit reorganization: spatial camera group moving; need new unit manager
+2025-09-19,14:49:27,Fall 2025,r-scripting-unit,Quinn Mattison,U0876QVTE7R,unit_manager,join,FALSE,0,0,has joined the channel
+2025-09-19,14:49:53,Fall 2025,r-scripting-unit,Charles R Clark,U073KDQ0D6V,admin,message,FALSE,0,0,Adding Quinn back to train new unit manager
+2025-09-22,12:56:46,Fall 2025,r-scripting-unit,Quinn Mattison,U0876QVTE7R,unit_manager,message,FALSE,3,0,Here is the powerpoint from today's meeting
+2025-09-22,12:57:04,Fall 2025,r-scripting-unit,Quinn Mattison,U0876QVTE7R,unit_manager,message,TRUE,0,0,Shared meeting PPT file
+2025-09-23,13:04:27,Fall 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,TRUE,5,0,Shared meeting slides
+2025-09-23,18:09:23,Fall 2025,methods-unit,Lenix Carter,U099UJT87A6,researcher,message,TRUE,8,1,Shared Vector DB presentation PDF
+2025-09-29,15:20:50,Fall 2025,3d-vision-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,2,Asked who missed recent meeting
+2025-09-29,15:27:19,Fall 2025,3d-vision-unit,Avish Parmar,U08RV5237LH,researcher,message,FALSE,0,0,Confirmed was not at meeting
+2025-09-30,09:47:07,Fall 2025,r-scripting-unit,Ichha Manandhar,U087PSB33V2,admin,join,FALSE,0,0,has joined the channel
+2025-09-30,09:47:16,Fall 2025,methods-unit,Ichha Manandhar,U087PSB33V2,admin,join,FALSE,0,0,has joined the channel
+2025-09-30,09:47:36,Fall 2025,image-processing-unit,Ichha Manandhar,U087PSB33V2,admin,join,FALSE,0,0,has joined the channel
+2025-09-30,09:47:48,Fall 2025,3d-vision-unit,Ichha Manandhar,U087PSB33V2,admin,join,FALSE,0,0,has joined the channel
+2025-10-03,09:12:27,Fall 2025,r-scripting-unit,Vanessa Zhou,U099UPQTFHS,researcher,message,FALSE,0,7,Cannot host Oct 6 meeting due to work conflict
+2025-10-07,11:53:44,Fall 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,0,Shared semester schedule Excel sheet
+2025-10-20,14:49:58,Fall 2025,r-scripting-unit,Neelima Pandey,U08RXF8V03X,researcher,message,FALSE,0,1,Asked if meeting was recorded
+2025-10-21,16:22:52,Fall 2025,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,0,"Thanked Sagnik, called for 2 more volunteers Nov 18 and Dec 2"
+2025-10-21,16:24:23,Fall 2025,image-processing-unit,Ebram,U08RV99MKND,researcher,join,FALSE,0,0,has joined the channel
+2025-10-25,04:29:43,Fall 2025,image-processing-unit,Sagnik Sinha,U08PJJPAVTK,researcher,message,TRUE,2,0,Shared Deep Learning presentation + GitHub code demo
+2025-11-04,11:53:37,Fall 2025,image-processing-unit,Andrei Hushcha,U087KFJN51B,unit_manager,message,FALSE,0,0,Cannot attend meeting today
+2025-11-18,16:30:23,Fall 2025,methods-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,6,0,Running 10 minutes late
+2025-11-18,17:44:40,Fall 2025,methods-unit,David Levy,U099MH01P6Y,researcher,message,TRUE,4,0,Shared Using Vector Databases in RAG Systems PDF
+2025-12-02,17:55:29,Fall 2025,methods-unit,Gurjot Singh,U0994DG54R1,researcher,message,TRUE,2,0,Shared Vector Quantization presentation
+2025-12-02,22:49:17,Fall 2025,methods-unit,David Solooki,U099PV92J8Z,researcher,message,TRUE,0,0,Shared Method Unit Presentation PPT
+2026-01-12,15:02:29,Spring 2026,image-processing-unit,Cody Henderson,U0998QHSLP4,admin,join,FALSE,0,0,has joined the channel
+2026-01-12,15:06:03,Spring 2026,methods-unit,Cody Henderson,U0998QHSLP4,admin,join,FALSE,0,0,has joined the channel
+2026-01-12,15:07:18,Spring 2026,r-scripting-unit,Cody Henderson,U0998QHSLP4,admin,join,FALSE,0,0,has joined the channel
+2026-01-12,15:08:14,Spring 2026,3d-vision-unit,Cody Henderson,U0998QHSLP4,admin,join,FALSE,0,0,has joined the channel
+2026-01-19,17:21:42,Spring 2026,image-processing-unit,Ali Sean Khan,U07819MK0U9,admin,join,FALSE,0,0,has joined the channel
+2026-01-19,17:22:12,Spring 2026,methods-unit,Ali Sean Khan,U07819MK0U9,admin,join,FALSE,0,0,has joined the channel
+2026-01-20,18:28:56,Spring 2026,r-scripting-unit,Tim Pang,U0A5T08H3PF,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:28:56,Spring 2026,r-scripting-unit,Amanjit Singh,U0A6AT4LE82,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:28:56,Spring 2026,r-scripting-unit,Calvin Yu,U0A7BTJG7CJ,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:28:56,Spring 2026,r-scripting-unit,Laith Alkhalil,U0A5EU6DGLF,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:28:56,Spring 2026,r-scripting-unit,Swati Dusane,U0A5R1VQKUP,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:28:56,Spring 2026,r-scripting-unit,Neil Warraich,U0A5W3CTBH8,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:31:16,Spring 2026,image-processing-unit,Justin Klotz,U0A5W3J4Y13,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:31:16,Spring 2026,image-processing-unit,Charley Sanchez,U0A605AVBE0,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:31:16,Spring 2026,image-processing-unit,Nirali Thakkar,U0A5REN4DV1,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:31:16,Spring 2026,image-processing-unit,Minseok Kim,U0A5Q9GB43V,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:31:16,Spring 2026,image-processing-unit,JIANGMIN WEI,U0A6CNK1KPB,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:33:15,Spring 2026,image-processing-unit,Jossue Medina Ramos,U0A7MN5D4JZ,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:33:15,Spring 2026,image-processing-unit,Evelyn Lim,U0A6103P4LX,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:33:15,Spring 2026,image-processing-unit,Chris,U0A6CP8FFKQ,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:34:00,Spring 2026,methods-unit,Shivani Revuru,U0A6K1Z276J,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:34:00,Spring 2026,methods-unit,Joseph Byun,U0A6HQQNNNA,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:34:00,Spring 2026,methods-unit,Zachary Wallace,U0A6TB1JRJ4,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:34:00,Spring 2026,methods-unit,Ryan Yu,U0A71G3U4PJ,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:34:00,Spring 2026,methods-unit,Arjot Rai,U0A66UHA0UA,researcher,join,FALSE,0,0,has joined the channel
+2026-01-20,18:48:17,Spring 2026,3d-vision-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,6,0,Posted When2Meet for spring scheduling
+2026-01-20,18:49:22,Spring 2026,3d-vision-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,0,0,When2Meet instruction: ignore date
+2026-01-20,18:54:53,Spring 2026,image-processing-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,13,0,Posted When2Meet for spring scheduling
+2026-01-20,18:54:59,Spring 2026,image-processing-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,0,0,When2Meet instruction: ignore date focus on day
+2026-01-20,18:56:39,Spring 2026,methods-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,12,0,Posted When2Meet for spring scheduling
+2026-01-20,18:56:52,Spring 2026,methods-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,0,0,When2Meet instruction: ignore date
+2026-01-20,18:58:17,Spring 2026,r-scripting-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,8,0,Posted When2Meet for spring scheduling
+2026-01-20,18:58:38,Spring 2026,r-scripting-unit,Ali Sean Khan,U07819MK0U9,admin,message,FALSE,0,0,When2Meet instruction: ignore date focus on day
+2026-01-20,20:45:18,Spring 2026,image-processing-unit,John Hiedo,U0991LVV9E2,researcher,leave,FALSE,0,0,has left the channel
+2026-01-21,09:04:41,Spring 2026,image-processing-unit,Jacquie Carroll,U08PXLTS821,researcher,leave,FALSE,0,0,has left the channel
+2026-01-21,14:31:00,Spring 2026,3d-vision-unit,Luke DeVivo,U0A5WE2DCUD,researcher,join,FALSE,0,0,has joined the channel
+2026-01-21,14:31:00,Spring 2026,3d-vision-unit,Amirhossein Jafari Bidhendi,U0A6BGPH7ML,researcher,join,FALSE,0,0,has joined the channel
+2026-01-21,14:31:00,Spring 2026,3d-vision-unit,Guillaume Batungwanayo,U0A5STCCQ05,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:24:17,Spring 2026,image-processing-unit,Prathamesh Bhushan Khare,U0A623Q4TKR,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:24:28,Spring 2026,image-processing-unit,Rebecca Rivera,U0A6466L20M,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:24:36,Spring 2026,image-processing-unit,Wanying Zhu,U0A603V2VRQ,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:25:00,Spring 2026,methods-unit,Yulian Lee,U0A5TGGA9RT,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:25:00,Spring 2026,methods-unit,Saumya Agrawal,U0A611SNSUT,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:25:00,Spring 2026,methods-unit,Rabah Ouldnoughi,U0993MK7GT1,researcher,join,FALSE,0,0,has joined the channel
+2026-01-22,09:29:00,Spring 2026,r-scripting-unit,Taylor Papke,U0A6655HLH0,researcher,join,FALSE,0,0,has joined the channel
+2026-01-23,12:17:00,Spring 2026,3d-vision-unit,Evelyn Binoya,U0A6F67QYFK,researcher,join,FALSE,0,0,has joined the channel
+2026-01-23,12:17:00,Spring 2026,3d-vision-unit,Syed Fahad Rizvi,U0A5YKFSKRU,researcher,join,FALSE,0,0,has joined the channel
+2026-01-23,12:17:00,Spring 2026,3d-vision-unit,Frank Hoffman,U099CUHEW2G,researcher,join,FALSE,0,0,has joined the channel
+2026-01-23,12:17:00,Spring 2026,3d-vision-unit,Riyam,U0A8R30DEKT,researcher,join,FALSE,0,0,has joined the channel
+2026-01-23,15:06:05,Spring 2026,image-processing-unit,Bree Shi,U071S6NJRSS,admin,message,FALSE,1,0,Asked Cody to set bi-weekly 9-10 meetings
+2026-01-23,15:28:41,Spring 2026,methods-unit,John Hagood,U087R4HGU20,admin,message,FALSE,0,1,Asked channel to revisit times; Dr. Mussmann availability most important
+2026-01-24,14:07:13,Spring 2026,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,0,Confirmed 9am-10am Friday with Bree
+2026-01-24,14:10:09,Spring 2026,methods-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,2,0,Evening meetings challenging with young toddler
+2026-01-24,18:55:31,Spring 2026,image-processing-unit,Erik Dreyer,U08RCAT8Q8N,researcher,message,FALSE,0,0,9am-10am on workday is tough for full-time workers
+2026-01-25,05:05:22,Spring 2026,image-processing-unit,Wai Lung Justin Yiu,U099H516EAJ,researcher,message,FALSE,7,0,Proposed 9-10am Friday slot with async participation process
+2026-01-27,16:08:56,Spring 2026,image-processing-unit,John Hiedo,U0991LVV9E2,researcher,join,FALSE,0,0,has joined the channel
+2026-01-29,16:27:30,Spring 2026,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,0,0,Asked if unit has a unit manager
+2026-02-03,21:13:53,Spring 2026,image-processing-unit,Justin Klotz,U0A5W3J4Y13,researcher,message,FALSE,0,1,Question about group purpose after watching recorded meeting
+2026-02-10,12:30:33,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,1,0,Volunteered to present on GBM models
+2026-02-10,15:02:25,Spring 2026,image-processing-unit,Cody Henderson,U0998QHSLP4,admin,message,FALSE,5,0,Meeting cancellation per Dr. Mussmann
+2026-02-17,12:59:23,Spring 2026,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,FALSE,4,0,"Call for tutorial volunteers: causal ML, multi-spectrum image analysis, real-time image processing, video generation, world models"
+2026-02-23,14:41:14,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,0,1,Agenda: Gradient Boosting tutorial + Vector DB project update; cameras on requested
+2026-02-24,17:50:23,Spring 2026,3d-vision-unit,Kefei Yan,U08RN5RACA0,researcher,join,FALSE,0,0,has joined the channel
+2026-02-24,17:50:39,Spring 2026,methods-unit,Kefei Yan,U08RN5RACA0,researcher,join,FALSE,0,0,has joined the channel
+2026-02-27,09:02:10,Spring 2026,image-processing-unit,Yutao Xu,U099DTYGAB1,researcher,message,FALSE,0,3,Asked for meeting link
+2026-02-27,09:42:50,Spring 2026,image-processing-unit,Steve Mussmann,U08UZT1MSP7,faculty_advisor,message,TRUE,4,1,Shared Weak Supervision tutorial slides
+2026-02-27,10:23:07,Spring 2026,image-processing-unit,Heba Elwazzan,U078YDG1H51,researcher,message,FALSE,0,5,Request to be re-invited to meeting after being moved to UI unit
+2026-03-05,15:50:04,Spring 2026,image-processing-unit,Rebecca Rivera,U0A6466L20M,researcher,message,FALSE,1,0,Request to forward Teams calendar invite
+2026-03-07,10:56:30,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,0,0,"Two meetings still need tutorial topics (Apr 7, Apr 21); asked for volunteers"
+2026-03-07,10:56:35,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,0,0,Listed topic: Graph Neural Networks
+2026-03-07,10:56:40,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,0,0,Listed topic: Bayesian Optimization
+2026-03-07,12:13:32,Spring 2026,methods-unit,Saumya Agrawal,U0A611SNSUT,researcher,message,FALSE,0,1,Asked if tutorial needs to relate to her project
+2026-03-09,21:32:30,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,2,0,Agenda: Rohil Shah Hardware Accelerators + Charleston Train project
+2026-03-10,15:32:42,Spring 2026,methods-unit,Rohil Shah,U099ACB465B,researcher,message,TRUE,2,0,Shared ML Hardware Accelerators presentation
+2026-03-10,15:38:13,Spring 2026,methods-unit,Isaac Felix,U099AND556W,researcher,message,TRUE,1,0,Shared Charleston Train Project Update PPT
+2026-03-10,15:38:37,Spring 2026,methods-unit,Isaac Felix,U099AND556W,researcher,message,FALSE,0,0,Contact info for questions
+2026-03-13,07:48:32,Spring 2026,image-processing-unit,Andrei Hushcha,U087KFJN51B,unit_manager,message,FALSE,1,0,Meeting agenda: Justin Yiu XAI in CV tutorial + Le Yang Loh Lizard Classification update
+2026-03-13,07:48:41,Spring 2026,image-processing-unit,Le Yang Loh,U08S3QW3E4V,researcher,join,FALSE,0,0,has joined the channel
+2026-03-13,09:02:21,Spring 2026,image-processing-unit,Andrei Hushcha,U087KFJN51B,unit_manager,message,FALSE,0,0,Correction: Le Yang Loh presenting March 27th not today
+2026-03-24,09:22:36,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,2,0,Agenda: Xu on bagged ensembles + LLM interpretability project
+2026-03-24,12:03:59,Spring 2026,methods-unit,Saumya Agrawal,U0A611SNSUT,researcher,message,FALSE,0,0,Asked if Leonardo joining today
+2026-03-24,12:05:25,Spring 2026,methods-unit,Leonardo Savasta,U099MKYKXT4,unit_manager,message,FALSE,0,0,"Running late, joining now"
+2026-03-24,12:49:52,Spring 2026,methods-unit,Saumya Agrawal,U0A611SNSUT,researcher,message,TRUE,2,0,Shared LLM Interpretability presentation
+2026-03-24,17:10:56,Spring 2026,methods-unit,Xu,U09BPLUAPFS,researcher,message,TRUE,1,0,"Shared Applied ML presentation: Bagging, Snapshot Ensembles, Bayesian Model Averaging"
